@@ -81,12 +81,6 @@ Synthetic behavioral dataset generated using Python and analyzed in MySQL.
 
 ---
 
-## Dashboard Preview
-
-(Add your final dashboard image here)
-
----
-
 ## Project Architecture
 
 Users → Sessions → Clicks → Conversions → Events → Experiment Groups
